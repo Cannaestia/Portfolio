@@ -7,7 +7,7 @@ My persoal Portfolio to distribute in search of a job.
 N/A
 
 ## Visuals
-![Password Generator](https://github.com/Cannaestia/Portfolio2/blob/main/Jennifer-Portfolio.png)
+![Password Generator](https://github.com/Cannaestia/Portfolio2/blob/main/Jennifer-Portfolio.png?raw=true)
 
 
 ## Roadmap
