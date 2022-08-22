@@ -120,13 +120,16 @@ footer {
 
 
 .tube:hover {
+    transition: all 300ms ease-in-out;
     transform: scale(1.1);
 }
 
 .git:hover {
+    transition: all 300ms ease-in-out;
     transform: scale(1.1);
 }
 
 .tik:hover {
+    transition: all 300ms ease;
     transform: scale(1.1);
 }

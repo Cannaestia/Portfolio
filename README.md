@@ -14,7 +14,7 @@ N/A
   N/A
 
 ## Contributing
-UNC Charlote Coding Bootcamp
+N/A
 
 ## Author
 Jennifer Arnold 
